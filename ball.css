@@ -1,0 +1,15 @@
+h2{
+    color: red;
+    background-color: yellow;
+    text-align: center;
+}
+
+.circle {
+    display: block;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+    background: radial-gradient(circle at 65% 15%, #6fff5c, rgb(243, 3, 3));
+}
+
